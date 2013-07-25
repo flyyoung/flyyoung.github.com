@@ -1,8 +1,9 @@
 ---
 title: links
 layout: page
-comments: yes
+comments: no
+
 ---
 
-暂无
+My Another Blog: [像少年啦飞驰](http://www.cnblogs.com/flyoung2008/)
 
