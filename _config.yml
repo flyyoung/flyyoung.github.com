@@ -6,7 +6,7 @@ pygments: true
 safe: true
 paginate: 16
 auto: true
-name:flyoung's blog
-blogurl:http://www.flyoung.me
-description:flyoung occasionally writes about things.
+name: flyoung's blog
+blogurl: http://www.flyoung.me
+description: flyoung occasionally writes about things.
 
