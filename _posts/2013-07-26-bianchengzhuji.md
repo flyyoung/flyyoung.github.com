@@ -4,7 +4,7 @@ layout: post
 title: "编程珠玑"
 
 categories:
-- 编程珠玑
+- 算法
 
 tags:
 - 编程珠玑
