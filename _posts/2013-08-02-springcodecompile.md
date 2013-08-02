@@ -37,7 +37,7 @@ Git和JDK1.7+是必需的。因为最新的spring-framework是采用gradle编译
 	Could not reserve enough space for object heap
 
 	Could not create the Java virtual machine
-2、在cmd中进入\spring-framework目录中，运行 `gradlew.bat build -x test`，跳过所有的测试。因为测试总会有失败，原因在spring-oxm的测试用例有问题，导致编译失败。
+2、在cmd中进入spring-framework目录中，运行 `gradlew.bat build -x test`，跳过所有的测试。因为测试总会有失败，原因在spring-oxm的测试用例有问题，导致编译失败。
 
 3、安装所有的spring-* jars到本地Maven cache中，运行`gradlew.bat install`。
 
