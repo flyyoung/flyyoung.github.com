@@ -14,8 +14,8 @@ tags:
 ---
 
 ##目录
-* 第1章 [Spring IOC](#first chater)  
-	* 1.1 [IOC容器和上下文](#1.1)
+* [第1章 Spring IOC](#first chapter)  
+	* [1.1 IOC容器和上下文](#1.1)
 	* 1.2 IOC容器和上下文初始化
 		* 1.2.1 Bean定义信息的资源定位
 		* 1.2.2 Bean定义信息的载入
