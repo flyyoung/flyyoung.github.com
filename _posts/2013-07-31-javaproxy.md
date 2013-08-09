@@ -2,7 +2,7 @@
 layout: post
 title: "JAVA动态代理"
 categories:
-- java
+- Java
 
 tags:
 - 动态代理

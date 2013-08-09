@@ -2,7 +2,7 @@
 layout: post
 title: "事件驱动"
 categories:
-- java
+- Java
 
 tags:
 - 设计模式

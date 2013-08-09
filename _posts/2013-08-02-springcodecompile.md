@@ -2,7 +2,7 @@
 layout: post
 title: "Spring源码编译"
 categories:
-- JAVA
+- Java
 
 tags:
 - Spring
