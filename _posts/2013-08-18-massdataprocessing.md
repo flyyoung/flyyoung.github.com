@@ -11,6 +11,12 @@ tags:
 ##基本方法
 ---
 ###1、Hash法
+参考：  
+
+- [常见hash算法的原理](http://blog.csdn.net/zxycode007/article/details/6999984)
+- [常见的Hash算法](http://blog.csdn.net/mycomputerxiaomei/article/details/7641221)
+- [General Purpose Hash Function Algorithms](http://www.partow.net/programming/hashfunctions/)
+
 ---
 ###2、Bit-map法
 利用Bit-map方法解决海量数据的查重和去重问题。
@@ -45,6 +51,29 @@ Trie树的典型应用是用于统计和排序大量的字符串，经常被搜�
 
 ---
 ###8、堆
+<table border="1">
+  <tr>
+    <th>堆类型</th>
+    <th>作用</th>
+  </tr>
+  <tr>
+    <td>最大堆</td>
+    <td>求前n小</td>
+  </tr>
+  <tr>
+    <td>最小堆</td>
+    <td>求前n大</td>
+  </tr>
+  <tr>
+    <td>双堆</td>
+    <td>中位数</td>
+  </tr>
+</table>
+
+</table>
+
+
+
 ---
 ###9、双层桶法
 ---
