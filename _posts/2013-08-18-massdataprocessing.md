@@ -70,8 +70,11 @@ Trie树的典型应用是用于统计和排序大量的字符串，经常被搜�
   </tr>
 </table>
 
-</table>
+<script src="https://gist.github.com/flyyoung/513b1d3676dca36dcee1.js"></script>
 
+[实验数据下载地址](http://files.cnblogs.com/flyoung2008/words.rar)
+
+参考：[词频统计](http://blog.csdn.net/zzran/article/details/8443655)
 
 
 ---
