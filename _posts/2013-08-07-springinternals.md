@@ -30,3 +30,9 @@ tags:
 ###第1章 Spring IOC
 <a id="1.1" name="1.1"></a>
 ####1.1 IOC容器和上下文
+
+
+---
+##参考  
+
+1. [学习Spring必学的Java基础知识](http://www.iteye.com/topic/1123824)
