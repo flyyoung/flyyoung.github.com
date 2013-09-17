@@ -93,7 +93,7 @@ int main()
 	}
 
     nodeSet nodeSet;
-    findTopK(a,nodeSet)；
+    findTopK(a,nodeSet);
 }
 
 {% endhighlight %}
